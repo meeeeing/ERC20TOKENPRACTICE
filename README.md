@@ -86,7 +86,7 @@ ManualERC20Token.sol
 컨트랙트 이름
 ```text
 MiizManualToken
-``
+```
 
 
 ```text
@@ -214,6 +214,3 @@ Initial Supply: 1,000,000
 
 * OpenZeppelin Contracts - ERC20
   [https://docs.openzeppelin.com/contracts/5.x/erc20](https://docs.openzeppelin.com/contracts/5.x/erc20)
-
-````
-
